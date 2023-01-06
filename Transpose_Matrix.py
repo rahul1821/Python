@@ -1,3 +1,5 @@
+'''Write a python program to print the transpose of a matrix.'''
+
 X = [[12,7],
     [4 ,5],
     [3 ,8]]
