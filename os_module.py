@@ -1,3 +1,7 @@
+"""Write a python program to open a file
+and check what are the access permissions
+acquired by that file using os module?"""
+
 import os
 import sys
 
